@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently working @Devyser as a Techincal product manager/Software developer. our main focus is to produce simple and reliable software solutions for fenetic data analysis
+- 🔭 I’m currently working @Devyser as a Techincal product manager/Software developer. Our main focus is to produce simple and reliable software solutions for genetic data analysis
 
 - 📫 How to reach me: Hamid.ramezanali@devyser.com, hamid.ra2018@gmail.com
 
